@@ -19,8 +19,8 @@ A reusable and customizable **TagInput** component built with **React + TypeScri
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tag-input-component.git
-cd tag-input-component
+git clone https://github.com/your-username/ui.git
+cd ui
 ```
 
 2. Install dependencies:
